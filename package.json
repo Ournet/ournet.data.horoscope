@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.horoscope",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ournet horoscope data storage",
   "main": "./lib/index.js",
   "scripts": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Ournet/ournet.data.horoscope#readme",
   "dependencies": {
+    "atonic": "^1.0.4",
     "bluebird": "^3.4.7",
     "lodash": "^4.17.4",
     "mongoose": "^4.7.6"
