@@ -1,0 +1,35 @@
+{
+  "name": "ournet.data.horoscope",
+  "version": "0.0.1",
+  "description": "Ournet horoscope data storage",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ournet/ournet.data.horoscope.git"
+  },
+  "keywords": [
+    "data",
+    "ournet",
+    "horoscope"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ournet/ournet.data.horoscope/issues"
+  },
+  "homepage": "https://github.com/Ournet/ournet.data.horoscope#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.7.6"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
