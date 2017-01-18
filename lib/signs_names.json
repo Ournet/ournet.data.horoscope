@@ -1,0 +1,74 @@
+{
+  "1": {
+    "ro": {
+      "slug": "berbec",
+      "name": "Berbec"
+    }
+  },
+  "2": {
+    "ro": {
+      "slug": "taur",
+      "name": "Taur"
+    }
+  },
+  "3": {
+    "ro": {
+      "slug": "gemeni",
+      "name": "Gemeni"
+    }
+  },
+  "4": {
+    "ro": {
+      "slug": "rac",
+      "name": "Rac"
+    }
+  },
+  "5": {
+    "ro": {
+      "slug": "leu",
+      "name": "Leu"
+    }
+  },
+  "6": {
+    "ro": {
+      "slug": "fecioara",
+      "name": "Fecioara"
+    }
+  },
+  "7": {
+    "ro": {
+      "slug": "balanta",
+      "name": "Blanța"
+    }
+  },
+  "8": {
+    "ro": {
+      "slug": "scorpion",
+      "name": "Scorpion"
+    }
+  },
+  "9": {
+    "ro": {
+      "slug": "sagetator",
+      "name": "Săgetător"
+    }
+  },
+  "10": {
+    "ro": {
+      "slug": "capricorn",
+      "name": "Capricorn"
+    }
+  },
+  "11": {
+    "ro": {
+      "slug": "varsator",
+      "name": "Vărsător"
+    }
+  },
+  "12": {
+    "ro": {
+      "slug": "pesti",
+      "name": "Pești"
+    }
+  }
+}
