@@ -3,72 +3,120 @@
     "ro": {
       "slug": "berbec",
       "name": "Berbec"
+    },
+    "ru": {
+      "slug": "aries",
+      "name": "Овен"
     }
   },
   "2": {
     "ro": {
       "slug": "taur",
       "name": "Taur"
+    },
+    "ru": {
+      "slug": "taurus",
+      "name": "Телец"
     }
   },
   "3": {
     "ro": {
       "slug": "gemeni",
       "name": "Gemeni"
+    },
+    "ru": {
+      "slug": "gemini",
+      "name": "Близнецы"
     }
   },
   "4": {
     "ro": {
       "slug": "rac",
       "name": "Rac"
+    },
+    "ru": {
+      "slug": "cancer",
+      "name": "Рак"
     }
   },
   "5": {
     "ro": {
       "slug": "leu",
       "name": "Leu"
+    },
+    "ru": {
+      "slug": "leo",
+      "name": "Лев"
     }
   },
   "6": {
     "ro": {
       "slug": "fecioara",
       "name": "Fecioara"
+    },
+    "ru": {
+      "slug": "virgo",
+      "name": "Дева"
     }
   },
   "7": {
     "ro": {
       "slug": "balanta",
       "name": "Balanța"
+    },
+    "ru": {
+      "slug": "libra",
+      "name": "Весы"
     }
   },
   "8": {
     "ro": {
       "slug": "scorpion",
       "name": "Scorpion"
+    },
+    "ru": {
+      "slug": "scorpio",
+      "name": "Скорпион"
     }
   },
   "9": {
     "ro": {
       "slug": "sagetator",
       "name": "Săgetător"
+    },
+    "ru": {
+      "slug": "sagittarius",
+      "name": "Стрелец"
     }
   },
   "10": {
     "ro": {
       "slug": "capricorn",
       "name": "Capricorn"
+    },
+    "ru": {
+      "slug": "capricorn",
+      "name": "Козерог"
     }
   },
   "11": {
     "ro": {
       "slug": "varsator",
       "name": "Vărsător"
+    },
+    "ru": {
+      "slug": "aquarius",
+      "name": "Водолей"
     }
   },
   "12": {
     "ro": {
       "slug": "pesti",
       "name": "Pești"
+    },
+    "ru": {
+      "slug": "pisces",
+      "name": "Рыбы"
     }
   }
 }
