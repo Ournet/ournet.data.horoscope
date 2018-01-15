@@ -7,6 +7,10 @@
     "ru": {
       "slug": "aries",
       "name": "Овен"
+    },
+    "bg": {
+      "slug": "aries",
+      "name": "Овен"
     }
   },
   "2": {
@@ -15,6 +19,10 @@
       "name": "Taur"
     },
     "ru": {
+      "slug": "taurus",
+      "name": "Телец"
+    },
+    "bg": {
       "slug": "taurus",
       "name": "Телец"
     }
@@ -27,6 +35,10 @@
     "ru": {
       "slug": "gemini",
       "name": "Близнецы"
+    },
+    "bg": {
+      "slug": "gemini",
+      "name": "Близнаци"
     }
   },
   "4": {
@@ -35,6 +47,10 @@
       "name": "Rac"
     },
     "ru": {
+      "slug": "cancer",
+      "name": "Рак"
+    },
+    "bg": {
       "slug": "cancer",
       "name": "Рак"
     }
@@ -47,6 +63,10 @@
     "ru": {
       "slug": "leo",
       "name": "Лев"
+    },
+    "bg": {
+      "slug": "leo",
+      "name": "Лъв"
     }
   },
   "6": {
@@ -55,6 +75,10 @@
       "name": "Fecioara"
     },
     "ru": {
+      "slug": "virgo",
+      "name": "Дева"
+    },
+    "bg": {
       "slug": "virgo",
       "name": "Дева"
     }
@@ -67,6 +91,10 @@
     "ru": {
       "slug": "libra",
       "name": "Весы"
+    },
+    "bg": {
+      "slug": "libra",
+      "name": "Везни"
     }
   },
   "8": {
@@ -75,6 +103,10 @@
       "name": "Scorpion"
     },
     "ru": {
+      "slug": "scorpio",
+      "name": "Скорпион"
+    },
+    "bg": {
       "slug": "scorpio",
       "name": "Скорпион"
     }
@@ -87,6 +119,10 @@
     "ru": {
       "slug": "sagittarius",
       "name": "Стрелец"
+    },
+    "bg": {
+      "slug": "sagittarius",
+      "name": "Стрелец"
     }
   },
   "10": {
@@ -97,6 +133,10 @@
     "ru": {
       "slug": "capricorn",
       "name": "Козерог"
+    },
+    "bg": {
+      "slug": "capricorn",
+      "name": "Козирог"
     }
   },
   "11": {
@@ -105,6 +145,10 @@
       "name": "Vărsător"
     },
     "ru": {
+      "slug": "aquarius",
+      "name": "Водолей"
+    },
+    "bg": {
       "slug": "aquarius",
       "name": "Водолей"
     }
@@ -117,6 +161,10 @@
     "ru": {
       "slug": "pisces",
       "name": "Рыбы"
+    },
+    "bg": {
+      "slug": "pisces",
+      "name": "Риби"
     }
   }
 }
