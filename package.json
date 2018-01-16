@@ -1,6 +1,6 @@
 {
   "name": "ournet.data.horoscope",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Ournet horoscope data storage",
   "main": "./lib/index.js",
   "scripts": {
